@@ -1,6 +1,6 @@
 # hera — Secrets Management. Zero-trust secrets management
 
-Secrets Management. Zero-trust secrets management. hera gives you a focused, inspectable implementation of that idea.
+Secrets Management. Zero-trust secrets management.
 
 ## Why hera
 
