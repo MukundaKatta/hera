@@ -1,56 +1,28 @@
-# 🔱 Hera — Secrets Management
+# hera — Secrets Management. Zero-trust secrets management
 
-> **Greek Mythology**: Queen of the Gods | Zero-trust secrets management
+Secrets Management. Zero-trust secrets management. hera gives you a focused, inspectable implementation of that idea.
 
-[![GitHub Pages](https://img.shields.io/badge/🌐_Live_Demo-Visit_Site-blue?style=for-the-badge)](https://MukundaKatta.github.io/hera/)
-[![GitHub](https://img.shields.io/github/license/MukundaKatta/hera?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/MukundaKatta/hera?style=flat-square)](https://github.com/MukundaKatta/hera/stargazers)
+## Why hera
 
-## 🚀 Overview
+hera exists to make this workflow practical. Secrets management. zero-trust secrets management. It favours a small, inspectable surface over sprawling configuration.
 
-Zero-trust secrets management
+## How It Works
 
-**Tech Stack:** Go, Rust
+The code is organised as a focused, single-purpose module with a clear entry point and minimal ceremony.
 
-## 📦 Quick Start
+## Getting Started
 
-```bash
-git clone https://github.com/MukundaKatta/hera.git
-cd hera
-# Follow setup instructions below
-```
+Clone the repository and inspect the source to see how to run it.
 
-## 🏗️ Project Structure
+## Usage
+
+See the source files and entry points for concrete usage patterns.
+
+## Project Structure
 
 ```
 hera/
-├── README.md
-├── LICENSE
 ├── CLAUDE.md
-├── .gitignore
-├── src/
-│   ├── main.py
-│   ├── config.py
-│   └── utils.py
-├── tests/
-│   └── test_main.py
-├── docs/
-│   └── architecture.md
-├── examples/
-│   └── basic_usage.py
-└── .github/
-    └── workflows/
-        └── static.yml
+├── LICENSE
+├── README.md
 ```
-
-## 🌐 Live Demo
-
-Visit the landing page: **https://MukundaKatta.github.io/hera/**
-
-## 📄 License
-
-MIT License — © 2026 Officethree Technologies
-
-## 🔱 Part of the Mythological Portfolio
-
-This is project **#hera** in the [100-project Mythological Portfolio](https://github.com/MukundaKatta) by Officethree Technologies.
